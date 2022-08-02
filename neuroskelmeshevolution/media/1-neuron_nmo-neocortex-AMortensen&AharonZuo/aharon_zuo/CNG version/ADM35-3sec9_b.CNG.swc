@@ -1,0 +1,133 @@
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Aharon_Zuo_Final\Source_Temp1//ADM35-3sec9_b.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Carolina_Final\Source_Temp1//ADM35-3sec9_b.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Aharon_Zuo_Final\Source_Temp1//ADM35-3sec9_b.MAF.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Aharon_Zuo_Final\Source_Temp1//ADM35-3sec9_b.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Auto swc//ADM35-3sec9_b.asc.swc.CNG.swc
+#
+# Original file C:\NMO_dev\data_proc\Temp_LMeasure\ADM35-3sec9_b.asc.swc edited using StdSwc version 1.31 on 7/23/21.
+# Irregularities and fixes documented in C:\NMO_dev\data_proc\Temp_LMeasure\ADM35-3sec9_b.asc.swc.std.  See StdSwc1.31.doc for more information.
+#
+# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Source_Temp1//ADM35-3sec9_b.asc
+#The original file has a single soma contour that is averaged into 3 soma points
+# ORIGINAL_SOURCE 
+# CREATURE 
+# REGION 
+# FIELD/LAYER 
+# TYPE 
+# CONTRIBUTOR 
+# REFERENCE 
+# RAW 
+# EXTRAS 
+# SOMA_AREA 
+# SHRINKAGE_CORRECTION 
+# VERSION_NUMBER 
+# VERSION_DATE 
+# ********************************************* 
+# SCALE 1.0 1.0 1.0 
+ 1 1 0 0 0 1.677 -1
+ 2 1 0.04 -1.66 0 1.677 1
+ 3 1 -0.04 1.66 0 1.677 1
+ 4 3 -0.99 -0.72 0.1 0.312 1
+ 5 3 -1.1 -1.87 0.1 0.97 4
+ 6 3 -0.67 -3.4 0.1 0.97 5
+ 7 3 0.38 -5.46 0.1 0.65 6
+ 8 3 0.92 -7.12 0.1 0.65 7
+ 9 3 1.71 -8.6 0.1 0.65 8
+ 10 3 2.59 -10.19 0.1 0.65 9
+ 11 3 3.31 -12.56 0.1 0.565 10
+ 12 3 3.56 -17.21 1.32 0.485 11
+ 13 3 3 -20.84 2.32 0.485 12
+ 14 3 3.01 -23.14 2.47 0.405 13
+ 15 3 2.97 -24.87 3.21 0.405 14
+ 16 3 3.44 -25.96 3.71 0.405 15
+ 17 3 3.91 -27.05 3.75 0.405 16
+ 18 3 3.85 -29.01 2.55 0.325 17
+ 19 3 4.05 -30.75 2.5 0.325 18
+ 20 3 3.16 -32.74 2.07 0.325 19
+ 21 3 2.81 -34.09 2.05 0.245 20
+ 22 3 2.8 -35.36 1.45 0.245 21
+ 23 3 2.9 -36.75 1.39 0.245 22
+ 24 3 2.17 -40.96 1.59 0.245 23
+ 25 3 1.45 -42.39 1.34 0.245 24
+ 26 3 1.4 -44.34 1.34 0.245 25
+ 27 3 1.28 -45.71 1.64 0.245 26
+ 28 3 1.51 -46.78 1.64 0.245 27
+ 29 3 3.33 -42.1 1.64 0.245 24
+ 30 3 4.73 -43.28 1.64 0.245 29
+ 31 3 5.02 -45.16 1 0.245 30
+ 32 3 5.18 -47.13 0.6 0.245 31
+ 33 3 5.5 -48.78 0.6 0.245 32
+ 34 3 -0.62 0.25 -2.02 0.245 1
+ 35 3 -0.98 1.22 -2.02 0.245 34
+ 36 3 -0.69 1.87 -2.02 0.245 35
+ 37 3 -1.02 3.29 -1.41 0.245 36
+ 38 3 -0.68 4.42 -1.12 0.245 37
+ 39 3 -0.79 5.82 -0.74 0.245 38
+ 40 3 -0.7 6.73 -0.68 0.245 39
+ 41 3 -2.08 7.9 -0.81 0.245 40
+ 42 3 -2.5 8.39 -1.02 0.245 41
+ 43 3 -2.58 10.02 -1.62 0.245 42
+ 44 3 -1.86 11.45 -1.83 0.245 43
+ 45 3 -3.56 11.74 0.87 0.245 44
+ 46 3 -4.88 12.54 0.94 0.245 45
+ 47 3 -6.25 12.67 1 0.245 46
+ 48 3 -6.49 12.48 1 0.245 47
+ 49 3 -5.92 13.81 2.09 0.245 48
+ 50 3 -5.81 14.95 3.16 0.245 49
+ 51 3 -5.22 16.26 4.25 0.245 50
+ 52 3 -4.93 16.95 4.28 0.245 51
+ 53 3 -4.67 18.41 4.28 0.245 52
+ 54 3 -5.15 19.51 4.84 0.245 53
+ 55 3 -5.87 20.38 4.98 0.245 54
+ 56 3 -7.65 21.23 4.98 0.245 55
+ 57 3 0.21 0.74 1.58 0.348 1
+ 58 3 0.46 3.49 1.96 0.565 57
+ 59 3 0.94 5.99 1.82 0.565 58
+ 60 3 1.26 7.11 1.29 0.565 59
+ 61 3 1.73 8.34 1.29 0.565 60
+ 62 3 2.71 11.47 1.25 0.485 61
+ 63 3 3 13.41 0.87 0.485 62
+ 64 3 3.66 15.64 0.81 0.485 63
+ 65 3 4.91 17.95 1 0.405 64
+ 66 3 7.55 21.39 0 0.325 65
+ 67 3 9.78 23.02 2.53 0.245 66
+ 68 3 10.28 24.7 3.25 0.245 67
+ 69 3 10.34 26.66 3.41 0.245 68
+ 70 3 10.67 27.79 3.46 0.245 69
+ 71 3 10.92 30.53 3.48 0.245 70
+ 72 3 11.59 32.76 2.84 0.245 71
+ 73 3 11.93 33.89 2.78 0.245 72
+ 74 3 12.09 34.45 3.21 0.245 73
+ 75 3 12.26 36.27 4.28 0.245 74
+ 76 3 12.29 37.77 4.28 0.245 75
+ 77 3 12.27 38.83 4.28 0.245 76
+ 78 3 3.63 20.04 -0.79 0.245 65
+ 79 3 3.41 20.3 -1.37 0.245 78
+ 80 3 2.97 20.56 -1.52 0.245 79
+ 81 3 3.17 21.58 -1.52 0.245 80
+ 82 3 2.23 22.48 -1.52 0.245 81
+ 83 3 1.78 22.75 -1.99 0.245 82
+ 84 3 1.13 23.05 -2.14 0.245 83
+ 85 3 0.27 23.82 -2.14 0.245 84
+ 86 3 -0.58 25.41 -2.81 0.245 85
+ 87 3 -0.38 26.42 -3.31 0.245 86
+ 88 3 0.39 27.51 -3.68 0.245 87
+ 89 3 0.81 28.27 -4.07 0.245 88
+ 90 3 0.87 30.46 -4.17 0.245 89
+ 91 3 0.55 31.87 -4.17 0.245 90
+ 92 3 -0.03 31.35 -4.23 0.245 91
+ 93 3 -0.92 30.62 -4.23 0.245 92
+ 94 3 -1.75 30.36 -4.23 0.245 93
+ 95 3 -2.06 30.74 -4.23 0.245 94
+ 96 3 -3.76 32.06 -4.23 0.245 95
+ 97 3 -3.09 33.04 -4.23 0.245 96

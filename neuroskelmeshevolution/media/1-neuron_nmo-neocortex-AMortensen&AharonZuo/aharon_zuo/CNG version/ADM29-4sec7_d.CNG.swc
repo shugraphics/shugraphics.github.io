@@ -1,0 +1,109 @@
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Aharon_Zuo_Final\Source_Temp1//ADM29-4sec7_d.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Carolina_Final\Source_Temp1//ADM29-4sec7_d.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Aharon_Zuo_Final\Source_Temp1//ADM29-4sec7_d.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Aharon_Zuo_Final\Source_Temp1//ADM29-4sec7_d.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Auto swc//ADM29-4sec7_d.swc.swc.CNG.swc
+#
+# Original file C:\NMO_dev\data_proc\Temp_LMeasure\ADM29-4sec7_d.swc.swc edited using StdSwc version 1.31 on 7/23/21.
+# Irregularities and fixes documented in C:\NMO_dev\data_proc\Temp_LMeasure\ADM29-4sec7_d.swc.swc.std.  See StdSwc1.31.doc for more information.
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Source_Temp1//ADM29-4sec7_d.swc
+#
+# ORIGINAL_SOURCE 
+# CREATURE 
+# REGION 
+# FIELD/LAYER 
+# TYPE 
+# CONTRIBUTOR 
+# REFERENCE 
+# RAW 
+# EXTRAS 
+# SOMA_AREA 
+# SHRINKAGE_CORRECTION 
+# VERSION_NUMBER 
+# VERSION_DATE 
+# ********************************************* 
+# SCALE 1.0 1.0 1.0 
+ 1 1 0 0 0 1.775 -1
+ 2 1 0 -1.77 0 1.775 1
+ 3 1 0 1.77 0 1.775 1
+ 4 4 -0.02 1.15 0 0.567 1
+ 5 4 0.64 3.05 0 0.567 4
+ 6 4 0.58 4.09 0 0.567 5
+ 7 4 0.66 5.69 0 0.567 6
+ 8 4 0.3 7.32 0 0.567 7
+ 9 4 -0.35 9.34 0 0.567 8
+ 10 4 -0.28 10.7 0 0.567 9
+ 11 4 1.55 13.46 0 0.567 10
+ 12 4 -0.12 15.66 0 0.567 11
+ 13 4 -1.89 17.13 0 0.567 12
+ 14 4 -2.7 19.25 0 0.567 13
+ 15 4 -2.18 22.32 0 0.567 14
+ 16 4 -1.61 24.36 0 0.405 15
+ 17 4 -0.94 26.05 0 0.405 16
+ 18 4 -1.1 27.44 0 0.405 17
+ 19 4 -0.97 29.73 0 0.405 18
+ 20 4 -0.3 31.65 0 0.405 19
+ 21 4 0.82 33.98 0 0.405 20
+ 22 4 2.22 36.55 0 0.405 21
+ 23 4 2.12 38.86 -0.07 0.405 22
+ 24 4 1.51 40.5 0.5 0.405 23
+ 25 4 2.53 42.28 0.43 0.324 24
+ 26 4 3.67 44.17 0.2 0.324 25
+ 27 4 4.19 45.29 0.05 0.324 26
+ 28 4 4.88 47.44 -0.01 0.324 27
+ 29 4 6.23 49.09 -0.07 0.324 28
+ 30 4 8.26 50.46 -0.28 0.324 29
+ 31 4 9.45 51.31 -0.4 0.324 30
+ 32 4 10.62 53.66 -0.4 0.324 31
+ 33 4 11.19 55.7 0.23 0.324 32
+ 34 4 11.86 57.39 0.81 0.324 33
+ 35 4 14.03 59.33 1.21 0.324 34
+ 36 4 14.86 61.82 1.87 0.324 35
+ 37 4 14.42 64.26 2 0.324 36
+ 38 4 14.38 65.75 2 0.324 37
+ 39 4 16.37 68.4 2.16 0.324 38
+ 40 4 15.63 71.67 2.25 0.324 39
+ 41 4 16.54 73.56 3.46 0.324 40
+ 42 4 17.64 74.76 3.71 0.324 41
+ 43 4 17.89 75.22 3.76 0.324 42
+ 44 4 -4.37 26.48 0 0.324 15
+ 45 4 -5.26 29.4 -0.01 0.324 44
+ 46 4 -5.29 30.67 -0.07 0.324 45
+ 47 4 -5.65 32.54 -0.37 0.324 46
+ 48 4 -5.95 33.59 -0.4 0.324 47
+ 49 4 -6.62 36.05 -0.4 0.324 48
+ 50 4 -6.97 37.9 -0.4 0.324 49
+ 51 4 -6.88 39.74 0 0.324 50
+ 52 4 -7.57 41.74 0.86 0.324 51
+ 53 4 -8.27 43.73 1.21 0.324 52
+ 54 4 -8.54 45.01 1.21 0.324 53
+ 55 4 -9.38 46.67 1.21 0.324 54
+ 56 4 -10.06 48.9 1.5 0.324 55
+ 57 4 -10.42 50.76 1.71 0.324 56
+ 58 4 -11 52.87 1.71 0.324 57
+ 59 4 -11.25 54.6 1.71 0.324 58
+ 60 4 -10.34 56.51 2.07 0.324 59
+ 61 4 -11.03 58.5 2.26 0.324 60
+ 62 4 -11.96 60.52 2.26 0.324 61
+ 63 4 -12.68 64.01 2.26 0.324 62
+ 64 4 -12.09 66.51 1.61 0.324 63
+ 65 4 -12.13 67.77 1.36 0.324 64
+ 66 4 -12.18 69.04 1 0.324 65
+ 67 4 -11.73 70.97 0.62 0.324 66
+ 68 4 -11.67 72.12 0.56 0.324 67
+ 69 4 -12.03 73.98 0.15 0.324 68
+ 70 4 -12.85 75.87 -0.34 0.324 69
+ 71 4 -12.78 77.24 -1 0.324 70
+ 72 4 -12.34 78.95 -1.34 0.324 71
+ 73 4 -12.5 80.34 -1.5 0.324 72
