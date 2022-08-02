@@ -1,0 +1,58 @@
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Abrous_Final\Source_Temp1//DD13-101-c7-2.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Auto swc//DD13-101-c7-2.asc.swc.CNG.swc
+#
+# Original file C:\NMO_dev\data_proc\Temp_LMeasure\DD13-101-c7-2.asc.swc edited using StdSwc version 1.31 on 12/8/17.
+# Irregularities and fixes documented in C:\NMO_dev\data_proc\Temp_LMeasure\DD13-101-c7-2.asc.swc.std.  See StdSwc1.31.doc for more information.
+#
+# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Source_Temp1//DD13-101-c7-2.asc
+#The original file has a single soma contour that is averaged into 3 soma points
+ 1 1 0 0 0 4.66277 -1
+ 2 1 -0.6 -4.61 0 4.66277 1
+ 3 1 0.6 4.61 0 4.66277 1
+ 4 3 -0.15 6.6 1.08 0.045 1
+ 5 3 0.77 10.26 2.02 0.045 4
+ 6 3 -0.32 14.84 2.02 0.045 5
+ 7 3 -0.48 14.95 2.02 0.045 6
+ 8 3 -2.37 24.5 2.02 0.045 7
+ 9 3 -4.37 33.08 2.02 0.045 8
+ 10 3 -4.62 39.44 2.02 0.045 9
+ 11 3 -4.78 39.55 2.02 0.045 10
+ 12 3 -5.48 47.13 2.02 0.045 11
+ 13 3 -3.07 55.85 0.67 0.045 12
+ 14 3 -2.39 61.71 4.09 0.045 13
+ 15 3 -2.38 61.81 4.09 0.045 14
+ 16 3 -1.51 68.46 4.09 0.045 15
+ 17 3 0.56 72.69 5.46 0.045 16
+ 18 3 0.57 72.79 5.46 0.045 17
+ 19 3 0.88 75.92 5.96 0.045 18
+ 20 3 0.88 75.92 6.09 0.045 19
+ 21 3 0.08 78 6.38 0.045 20
+ 22 3 -2.04 73.95 4.09 0.045 16
+ 23 3 -4.52 83.13 4.53 0.045 22
+ 24 3 -6.05 85.85 4.17 0.045 23
+ 25 3 -7.6 90.39 5.25 0.045 24
+ 26 3 -12.1 96.41 3.15 0.045 25
+ 27 3 -14.96 100.04 1.98 0.045 26
+ 28 3 -18.91 103.36 1.82 0.045 27
+ 29 3 -0.62 86.95 5.13 0.045 24
+ 30 3 -0.5 87.03 5.13 0.045 29
+ 31 3 3.89 89.88 5.13 0.045 30
+ 32 3 4.12 90.3 5.13 0.045 31
+ 33 3 7.09 95.05 5.01 0.045 32
+ 34 3 7.09 95.05 4.67 0.045 33
+ 35 3 6.07 40.44 1.34 0.045 8
+ 36 3 15.19 53.61 0.87 0.045 35
+ 37 3 15 61.03 -0.23 0.045 36
+ 38 3 15 61.03 -0.14 0.045 37
+ 39 3 15.93 68.14 1.88 0.045 38
+ 40 3 15.97 68.4 1.88 0.045 39
+ 41 3 16.59 74.55 1.96 0.045 40
+ 42 3 16.63 74.91 2 0.045 41
+ 43 3 15.07 82.15 2.28 0.045 42
+ 44 3 20.65 59.02 3 0.045 36
+ 45 3 28.22 65.98 3.02 0.045 44
+ 46 3 42.63 76.73 2.8 0.045 45
