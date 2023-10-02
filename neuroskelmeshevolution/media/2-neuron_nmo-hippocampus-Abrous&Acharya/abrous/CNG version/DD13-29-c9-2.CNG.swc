@@ -1,59 +1,0 @@
-# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\NMO_dev\data_proc\Abrous_Final\Source_Temp1//DD13-29-c9-2.CNG.swc
-#
-# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\NMO_dev\data_proc\Auto swc//DD13-29-c9-2.asc.swc.CNG.swc
-#
-# Original file C:\NMO_dev\data_proc\Temp_LMeasure\DD13-29-c9-2.asc.swc edited using StdSwc version 1.31 on 12/8/17.
-# Irregularities and fixes documented in C:\NMO_dev\data_proc\Temp_LMeasure\DD13-29-c9-2.asc.swc.std.  See StdSwc1.31.doc for more information.
-#
-# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\NMO_dev\data_proc\Source_Temp1//DD13-29-c9-2.asc
-#The original file has a single soma contour that is averaged into 3 soma points
- 1 1 0 0 0 4.62813 -1
- 2 1 -2.22 -4.05 0 4.62813 1
- 3 1 2.22 4.05 0 4.62813 1
- 4 3 -1.5 4.99 0.18 0.045 1
- 5 3 -1.66 5.28 0.18 0.045 4
- 6 3 -2.26 8.27 0.18 0.045 5
- 7 3 -2.36 8.62 0.18 0.045 6
- 8 3 -2.34 13.09 0.18 0.045 7
- 9 3 -2.37 13.22 0.18 0.045 8
- 10 3 -3.38 18.24 0.18 0.045 9
- 11 3 -3.36 22.93 0.18 0.045 10
- 12 3 -1.61 30.34 0.18 0.045 11
- 13 3 -1.8 33.52 0.18 0.045 12
- 14 3 -6.16 48.36 0.18 0.045 13
- 15 3 -6.2 48.48 0.18 0.045 14
- 16 3 -6.52 53.97 0.18 0.045 15
- 17 3 -7.26 70.82 -1.94 0.045 16
- 18 3 -8.87 76.52 -0.05 0.045 17
- 19 3 -12.74 83.35 -0.33 0.045 18
- 20 3 -12.74 83.35 -0.43 0.045 19
- 21 3 -13.77 86.46 -0.99 0.045 20
- 22 3 -13.77 86.46 -1.16 0.045 21
- 23 3 -16.66 91.01 -2.63 0.045 22
- 24 3 -16.66 91.01 -2.82 0.045 23
- 25 3 -20.79 96.44 -2.99 0.045 24
- 26 3 -21.93 98.27 -3.02 0.045 25
- 27 3 -7.01 73.54 -1.94 0.045 17
- 28 3 -7.04 73.65 -1.97 0.045 27
- 29 3 -4.95 79.33 -2 0.045 28
- 30 3 -5.73 81.4 -0.91 0.045 29
- 31 3 -1.89 84.92 -3.15 0.045 30
- 32 3 -1.89 84.92 -3.25 0.045 31
- 33 3 1.67 88.26 -3.28 0.045 32
- 34 3 5.17 91.26 -3.21 0.045 33
- 35 3 7.66 94.49 -3.21 0.045 34
- 36 3 7.76 94.65 -3.21 0.045 35
- 37 3 8.83 96.82 -3.76 0.045 36
- 38 3 8.83 96.82 -3.88 0.045 37
- 39 3 7.24 89.9 -1.74 0.045 33
- 40 3 7.28 90.17 -1.74 0.045 39
- 41 3 9.09 91.64 -1.74 0.045 40
- 42 3 9.26 91.96 -1.74 0.045 41
- 43 3 11.53 94.58 -1.74 0.045 42
- 44 3 -3.77 86.67 -0.91 0.045 30
- 45 3 -3.54 89.5 -0.81 0.045 44
- 46 3 -2.51 91.89 -0.01 0.045 45
- 47 3 -2.51 91.89 0.05 0.045 46

@@ -1,98 +1,0 @@
-# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Aharon_Zuo_Final\Source_Temp1//ADM57-2sec5_f.CNG.swc
-#
-# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Carolina_Final\Source_Temp1//ADM57-2sec5_f.CNG.swc
-#
-# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Aharon_Zuo_Final\Source_Temp1//ADM57-2sec5_f.MAF.swc
-#
-# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\NMO_dev\data_proc\Aharon_Zuo_Final\Source_Temp1//ADM57-2sec5_f.CNG.swc
-#
-# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\NMO_dev\data_proc\Auto swc//ADM57-2sec5_f.asc.swc.CNG.swc
-#
-# Original file C:\NMO_dev\data_proc\Temp_LMeasure\ADM57-2sec5_f.asc.swc edited using StdSwc version 1.31 on 7/23/21.
-# Irregularities and fixes documented in C:\NMO_dev\data_proc\Temp_LMeasure\ADM57-2sec5_f.asc.swc.std.  See StdSwc1.31.doc for more information.
-#
-# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\NMO_dev\data_proc\Source_Temp1//ADM57-2sec5_f.asc
-#The original file has a single soma contour that is averaged into 3 soma points
-# ORIGINAL_SOURCE 
-# CREATURE 
-# REGION 
-# FIELD/LAYER 
-# TYPE 
-# CONTRIBUTOR 
-# REFERENCE 
-# RAW 
-# EXTRAS 
-# SOMA_AREA 
-# SHRINKAGE_CORRECTION 
-# VERSION_NUMBER 
-# VERSION_DATE 
-# ********************************************* 
-# SCALE 1.0 1.0 1.0 
- 1 1 0 0 0 1.806 -1
- 2 1 0 -1.79 0.06 1.806 1
- 3 1 0 1.79 -0.06 1.806 1
- 4 3 1.03 0.19 0.4 0.325 1
- 5 3 2.43 -0.96 0.59 0.325 4
- 6 3 2.62 -4.37 1.08 0.325 5
- 7 3 2.91 -5.19 1.21 0.325 6
- 8 3 3.67 -6.36 1.46 0.325 7
- 9 3 4.28 -7.35 1.68 0.325 8
- 10 3 5.83 -9.19 2.1 0.325 9
- 11 3 6.92 -10.5 2.61 0.325 10
- 12 3 8.3 -12.18 3.02 0.325 11
- 13 3 10.05 -13.22 3.32 0.325 12
- 14 3 11.97 -14.28 2.77 0.325 13
- 15 3 13.75 -15.06 1.1 0.325 14
- 16 3 17.47 -15.7 0.88 0.325 15
- 17 3 17.96 -15.89 0.83 0.325 16
- 18 3 1.14 0.36 0.22 0.325 1
- 19 3 2.99 1.74 0.2 0.325 18
- 20 3 5.25 1.48 0.23 0.325 19
- 21 3 6.38 1.28 0.16 0.325 20
- 22 3 8.15 0.25 0.05 0.325 21
- 23 3 9.75 -0.96 -0.67 0.325 22
- 24 3 10.89 -1.84 -2.22 0.325 23
- 25 3 12.78 -3.23 -2.65 0.325 24
- 26 3 15 -4.79 -2.63 0.325 25
- 27 3 17.06 -6.16 -2.57 0.325 26
- 28 3 0.39 1.01 -0.42 0.292 1
- 29 3 1.11 2.24 -1.04 0.81 28
- 30 3 1.86 4.64 -1.1 0.81 29
- 31 3 2.73 6.92 0.01 0.565 30
- 32 3 2.35 9.01 -1.07 0.565 31
- 33 3 3.28 11.05 -2.26 0.565 32
- 34 3 3.65 12.82 -2.21 0.565 33
- 35 3 5.92 14.91 -5.67 0.405 34
- 36 3 6.53 17.81 -5.74 0.405 35
- 37 3 7.25 19.24 -5.06 0.405 36
- 38 3 7.74 20.58 -3.27 0.405 37
- 39 3 6.6 24.53 -2.5 0.325 38
- 40 3 6.12 29.12 -1.38 0.325 39
- 41 3 6.33 30.43 -1.25 0.325 40
- 42 3 7.22 32.52 -0.55 0.325 41
- 43 3 7.17 35.44 -0.58 0.325 42
- 44 3 6.25 37.08 -0.64 0.325 43
- 45 3 5.99 38.4 -0.59 0.325 44
- 46 3 6.18 39.06 -0.55 0.325 45
- 47 3 7.44 42.09 -0.1 0.325 46
- 48 3 8.15 43.53 0.33 0.325 47
- 49 3 8.76 46.75 0.55 0.325 48
- 50 3 9.05 49.5 0.55 0.325 49
- 51 3 8.86 53.04 -0.89 0.325 50
- 52 3 8.65 54.98 -1.53 0.325 51
- 53 3 8.74 56.77 -1.68 0.325 52
- 54 3 8.59 60.92 0.03 0.325 53
- 55 3 8.48 64.34 2.39 0.325 54
- 56 3 7.96 67.61 2.49 0.325 55
- 57 3 7.5 72.49 2.45 0.325 56
- 58 3 7.87 77.52 2.32 0.325 57
- 59 3 8.4 81.66 0.96 0.325 58
- 60 3 3.9 15.14 -0.26 0.245 34
- 61 3 5.37 19.96 0.55 0.245 60
- 62 3 5.07 24.85 0.79 0.245 61

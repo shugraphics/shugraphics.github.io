@@ -1,124 +1,0 @@
-# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Aharon_Zuo_Final\Source_Temp1//ADM67-1sec6_a.CNG.swc
-#
-# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Carolina_Final\Source_Temp1//ADM67-1sec6_a.CNG.swc
-#
-# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Aharon_Zuo_Final\Source_Temp1//ADM67-1sec6_a.MAF.swc
-#
-# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\NMO_dev\data_proc\Aharon_Zuo_Final\Source_Temp1//ADM67-1sec6_a.CNG.swc
-#
-# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\NMO_dev\data_proc\Auto swc//ADM67-1sec6_a.asc.swc.CNG.swc
-#
-# Original file C:\NMO_dev\data_proc\Temp_LMeasure\ADM67-1sec6_a.asc.swc edited using StdSwc version 1.31 on 7/23/21.
-# Irregularities and fixes documented in C:\NMO_dev\data_proc\Temp_LMeasure\ADM67-1sec6_a.asc.swc.std.  See StdSwc1.31.doc for more information.
-#
-# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
-# Original fileName:C:\NMO_dev\data_proc\Source_Temp1//ADM67-1sec6_a.asc
-#The original file has a single soma contour that is averaged into 3 soma points
-# ORIGINAL_SOURCE 
-# CREATURE 
-# REGION 
-# FIELD/LAYER 
-# TYPE 
-# CONTRIBUTOR 
-# REFERENCE 
-# RAW 
-# EXTRAS 
-# SOMA_AREA 
-# SHRINKAGE_CORRECTION 
-# VERSION_NUMBER 
-# VERSION_DATE 
-# ********************************************* 
-# SCALE 1.0 1.0 1.0 
- 1 1 0 0 0 1.639 -1
- 2 1 0 -1.63 0 1.639 1
- 3 1 0 1.63 0 1.639 1
- 4 3 -0.39 1.07 0.71 0.201 1
- 5 3 -0.05 1.88 0.86 1.62 4
- 6 3 0.15 4.86 1.09 1.215 5
- 7 3 0.6 8.77 1.43 0.65 6
- 8 3 0.27 10.03 2.91 0.65 7
- 9 3 -1.19 12.22 2.9 0.65 8
- 10 3 -2.17 13.36 3.24 0.65 9
- 11 3 -1.83 16.44 3.5 0.325 10
- 12 3 -2.37 18.33 4.42 0.325 11
- 13 3 -1.58 18.54 5.04 0.325 12
- 14 3 -1.16 14.14 3.44 0.245 10
- 15 3 -0.72 16.06 4.21 0.245 14
- 16 3 0.75 16.55 3.92 0.245 15
- 17 3 2.56 17.49 1.85 0.245 16
- 18 3 2.24 19.08 2.23 0.245 17
- 19 3 1.7 21.97 3.77 0.245 18
- 20 3 1.81 24.14 3.93 0.245 19
- 21 3 2.04 25.75 4.08 0.245 20
- 22 3 2.84 28.39 4.42 0.245 21
- 23 3 3.21 30.11 4.49 0.245 22
- 24 3 3.3 31.95 4.22 0.245 23
- 25 3 3.09 33.79 4.22 0.245 24
- 26 3 1.77 37.26 4.12 0.245 25
- 27 3 1.18 39.7 3.3 0.245 26
- 28 3 0.31 42.24 3.16 0.245 27
- 29 3 0.22 43.51 3.15 0.245 28
- 30 3 -0.42 48.54 3.35 0.245 29
- 31 3 -1.31 51.22 2.83 0.245 30
- 32 3 -1.72 53.74 2.84 0.245 31
- 33 3 -2.05 56.17 2.91 0.245 32
- 34 3 -2.04 57.54 2.99 0.245 33
- 35 3 -2.05 59.37 3.1 0.245 34
- 36 3 -1.96 60.76 2.84 0.245 35
- 37 3 -2.18 62.84 2.91 0.245 36
- 38 3 -2.28 64.11 2.97 0.245 37
- 39 3 -1.95 65.35 3.12 0.245 38
- 40 3 -1.66 66.52 2.94 0.245 39
- 41 3 -2.17 68.94 2.81 0.245 40
- 42 3 -2.21 69.76 2.59 0.245 41
- 43 3 -1.95 72.28 2.69 0.245 42
- 44 3 -1.6 74.61 2.27 0.245 43
- 45 3 -1.71 77.62 2.06 0.245 44
- 46 3 -1.67 80.37 2.08 0.245 45
- 47 3 -1.67 81.75 2.16 0.245 46
- 48 3 -0.67 83.68 2.52 0.245 47
- 49 3 -0.53 86.01 2.07 0.245 48
- 50 3 -0.87 88.34 1.72 0.245 49
- 51 3 -0.1 90.87 1.65 0.245 50
- 52 3 1.11 92.12 1.95 0.245 51
- 53 3 1.68 95.46 2.29 0.245 52
- 54 3 2.58 96.83 2.58 0.245 53
- 55 3 5.27 99.93 2.93 0.245 54
- 56 3 7.23 101.39 3.23 0.245 55
- 57 3 7.68 102.78 3.42 0.245 56
- 58 3 8.16 106.44 3.61 0.245 57
- 59 3 8.72 108.75 3.5 0.245 58
- 60 3 8.79 112.44 3.43 0.245 59
- 61 3 10.65 117.48 3.93 0.245 60
- 62 3 10.25 124.5 3.68 0.245 61
- 63 3 2.69 7.93 1.96 0.245 7
- 64 3 2.91 8.62 2.11 0.245 63
- 65 3 5.29 12.68 3.34 0.245 64
- 66 3 5.69 14.04 3.81 0.245 65
- 67 3 5.78 14.59 3.97 0.245 66
- 68 3 6.26 15.81 2.98 0.245 67
- 69 3 8.28 17.22 2.55 0.245 68
- 70 3 10.65 17.99 3.06 0.245 69
- 71 3 12.27 20.74 3.44 0.245 70
- 72 3 12.58 21.91 3.19 0.245 71
- 73 3 13.42 23.16 3.14 0.245 72
- 74 3 14.94 25.95 2.96 0.245 73
- 75 3 15.41 27.78 3.13 0.245 74
- 76 3 15.11 31.12 3.14 0.245 75
- 77 3 15.21 32.53 2.79 0.245 76
- 78 3 15.46 34.58 2.93 0.245 77
- 79 3 15.7 37.1 3.07 0.245 78
- 80 3 15.64 39.2 2.52 0.245 79
- 81 3 16.06 42.32 2.4 0.245 80
- 82 3 17.12 43.8 2.54 0.245 81
- 83 3 18.47 45.63 2.96 0.245 82
- 84 3 18.55 47.95 2.82 0.245 83
- 85 3 18.98 49.59 2.08 0.245 84
- 86 3 18.39 51.69 1.76 0.245 85
- 87 3 18.07 54.79 1.83 0.245 86
- 88 3 19.41 56.15 2.22 0.245 87

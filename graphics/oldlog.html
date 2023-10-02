@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<head>
+<title>Graphics-Autodesk Forge Viewer</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Graphics-Autodesk Forge Viewer</h1>
+<p>以下为相关可供参考的链接</p>
+
+<p>__________________________________________________________________________</p>
+<p>2017/10/8</p>
+
+<p>一、镜像和软件准备</br>
+下载Ubuntu server版本镜像和U盘启动制作工具，链接如下：</br>
+Ubuntu：http://www.ubuntu.org.cn/download/server</br>
+Rufus：https://rufus.akeo.ie/?locale=zh_CN</br>
+利用Rufus制作U盘启动器，一般采用mbr分区，将制作好的U盘插入电脑，进入bios选择U盘启动，进入Ubuntu server安装界面。</br>
+</br>
+二、Ubuntu安装流程</br>
+在线教程http://www.360doc.com/content/17/0222/11/17572791_631069401.shtml</br>
+需要注意的问题是安装过程中可能出现报错无法进行的情况，所以在教程的基础上注意：</br>
+1.	选择语言为英文</br>
+2.	使用默认的分区方法</br>
+</br>
+三、Ubuntu开启基础服务</br>
+1.	source.list</br>
+刚安装好的系统可能没有更新源，这时需要修改更新源，常用源列表可以查看：</br>
+http://www.cnblogs.com/zlslch/p/6860229.html</br>
+命令行窗口使用sudo vi /etc/apt/source.list可以修改源，vi编辑器的使用方法参照：</br>
+http://blog.csdn.net/liuligui5200/article/details/52524462</br>
+2.	开启ssh服务</br>
+开启ssh服务可以远程连接ubuntu服务器，可以参考以下链接：</br>
+http://jingyan.baidu.com/article/9c69d48fb9fd7b13c8024e6b.html</br>
+3.	开启Nginx服务</br>
+此服务可以用于搭建网站，提供高效的反向代理，参考：</br>
+http://www.open-open.com/lib/view/open1419826381531.html</br>
+</br>
+四、利用花生壳实现内网穿透</br>
+利用购买的花生棒可以在没有公网ip的情况下实现外网访问，参考教程如下：</br>
+http://www.open-open.com/lib/view/open1419826381531.html</br>
+同时我们可以使用两个不同的域名来提供80网站和22ssh服务，如图所示。</br>
+SSH服务可以通过PuTTY和WinSCP来实现便捷的访问，需要记住域名、端口号、用户名和密码，注意这里填写的端口为外部端口。</br>
+另外记得在路由器上设置端口转发，IP绑定，也可以直接做dmz主机。参考链接：</br>
+https://ihuan.me/2333.html</br>
+花生壳提供的域名是二级域名，也可以把自己的域名解析到上面去，但是花生壳好像屏蔽的外网顶级域名，所以可以设置自己的二级域名，通过带主机记录的隐形url解析来完成。</br>
+此外可以在BIOS里把服务器设置为通电启动。</br>
+
+</p>
+
+
+<p>__________________________________________________________________________</p>
+<p>2017/9/12</p>
+
+<p>一些可以参考的站点：<a href="http://zzcabbage.xyz/download/bookmarks_2017_9_12.html">书签列表</a>
+</p>
+
+<p>__________________________________________________________________________</p>
+<p>2017/8/27</p>
+
+<p>Forge平台的ID和Secret</br>
+Client ID:C6pWil3QezjmPhKsvjAIRxufQr3ehnX7</br>
+Client Secret:Fb98875408f844d4</br>
+模型下载：
+<a href="http://zzcabbage.xyz/download/bl.rvt">bl.rvt</a><br/>
+120.25.0.210:8000
+</p>
+<p>__________________________________________________________________________</p>
+<p>2017/7/18</p>
+
+<p>上次讨论的PPT:
+<a href="http://zzcabbage.xyz/download/Alpha.pptx">点我下载</a><br/>
+两个实例：
+<a href="https://github.com/Autodesk-Forge/forge-boilers.nodejs">forge-boilers</a>
+<a href="https://github.com/cyrillef/extract.autodesk.io">extract</a><br/>
+还可以参考以下站点：<br/>
+<a href="https://baijiahao.baidu.com/po/feed/share?wfr=spider&for=pc&context=%7B%22sourceFrom%22%3A%22bjh%22%2C%22nid%22%3A%22news_2886943097192037349%22%7D">ngnix网站部署</a><br/>
+<a href="http://blog.csdn.net/dnpopangel/article/details/52958549">Autodesk的Forge平台以及Token获取</a><br/>
+<a href="https://threejs.org/">three.js</a><br/>
+一些可能用到的软件：<br/>
+<a href="https://notepad-plus-plus.org/">Notepad++</a><br/>
+<a href="https://winscp.net/">WinSCP</a><br/>
+<a href="http://www.putty.org/">PuTTY</a><br/>
+<a href="https://nodejs.org/en/">Node.js</a><br/>
+部分网站需要翻墙可以参考：(需要安装Java)
+<a href="http://gogohome.herokuapp.com/">GoGo</a><br/>
+
+
+</p>
+
+<p><em>后续逐步改进更新，提供更多服务。<br/>
+Thank you for using.</em></p>
+</body>
+</html>
